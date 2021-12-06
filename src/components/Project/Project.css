@@ -1,0 +1,27 @@
+.project{
+    height: 190px;
+    padding: 10px;
+    background: #2B2E33;
+    border-radius: 8px;
+    transition: .5s;
+    
+}
+.project img{
+    width: 95%;
+    transition: .5s;
+}
+.project .view{
+    display: none;
+    
+}
+.project:hover img{
+    margin-top: -20px;
+    
+}
+.project:hover .name{
+    display: none;
+}
+.project:hover .view{
+    display: block;
+    transition: .2s;
+}

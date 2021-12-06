@@ -1,0 +1,9 @@
+.more-detail{
+    padding: 10px;
+    background: #2B2E33;
+    border-radius: 8px;
+    transition: .5s;
+}
+.more-detail img{
+    width: 100%;
+}

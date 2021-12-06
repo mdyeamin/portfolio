@@ -1,0 +1,48 @@
+[
+    {
+        "projectName": "West More Land's",
+        "id": "1",
+        "moreDetails": {
+            "fullPic": "https://i.ibb.co/nQDm0zv/screenshot-localhost-3001-2021-12-01-00-11-11.png",
+            "website": "https://west-more-land-s.web.app/",
+            "frontend": "https://github.com/mdyeamin/-niche-website-client-side",
+            "backend": "https://github.com/mdyeamin/-niche-website-server-side"
+        },
+        "ProjectDescription": "project 1",
+        "projectImg": "https://i.ibb.co/PQ4bkbV/Screenshot-2021-11-30-173208.png"
+    },
+    {
+        "projectName": "Travel curios",
+        "id": "2",
+        "moreDetails": {
+            "fullPic": "https://i.ibb.co/SryffrX/screenshot-localhost-3002-2021-12-01-00-14-14.png",
+            "website": "https://travel-curiosity.web.app/",
+            "frontend": "https://github.com/mdyeamin/tourism-or-delivery-website-client-side",
+            "backend": "https://github.com/mdyeamin/tourism-or-delivery-website-server-side"
+        },
+        "ProjectDescription": "project 2",
+        "projectImg": "https://i.ibb.co/CJ720dw/Screenshot-2021-11-30-173941.png"
+    },
+    {
+        "projectName": "Health Sense",
+        "id": "3",
+        "moreDetails": {
+            "fullPic": "https://i.ibb.co/cDfLY2n/screenshot-localhost-3003-2021-12-01-00-16-20.png",
+            "website": "https://health-sense-d3b2a.web.app/",
+            "frontend": "https://github.com/mdyeamin/-healthcare-react-firebase"
+        },
+        "ProjectDescription": "project 3",
+        "projectImg": "https://i.ibb.co/c66sf72/Screenshot-2021-11-30-175034.png"
+    },
+    {
+        "projectName": "Code Education",
+        "id": "4",
+        "moreDetails": {
+            "fullPic": "https://i.ibb.co/whmnDht/screenshot-localhost-3004-2021-12-01-00-18-22.png",
+            "website": "https://procodeeducation.netlify.app/",
+            "frontend": "https://github.com/mdyeamin/review-website-react"
+        },
+        "ProjectDescription": "project 3",
+        "projectImg": "https://i.ibb.co/M65Td7t/Screenshot-2021-11-30-181157.png"
+    }
+]
